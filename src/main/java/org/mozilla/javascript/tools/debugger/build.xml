@@ -4,7 +4,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<project name="toolsrc" default="help" basedir=".">
+<project name="toolsrc" default="help" basedir="">
 
   <target name="properties">
     <property name="swing-ex-url" value="http://java.sun.com/products/jfc/tsc/articles/treetable2/downloads/src.zip"/>
